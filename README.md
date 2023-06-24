@@ -11,11 +11,11 @@ Second UI is an abstract food ordering application. User can choose meals he lik
 
 https://user-images.githubusercontent.com/113389092/222981736-e13d46a0-0a00-4599-9230-b3b4af34904b.mp4
 
+
 Third UI is a copy of the application for ordering a taxi. Of course, you cannot order real taxis, but you can find places of interest to you and see how much you would pay for the trip.
 
+https://github.com/metalWillHelpYou/SwiftUI/assets/113389092/cb7d054f-dc24-4a94-93e8-458e95edc640
 
-
-Uploading Screen Recording 2023-06-24 at 15.40.59.mov…
 
 
 
