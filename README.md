@@ -16,6 +16,7 @@ Third UI is a copy of the application for ordering a taxi. Of course, you cannot
 
 https://github.com/metalWillHelpYou/SwiftUI/assets/113389092/cb7d054f-dc24-4a94-93e8-458e95edc640
 
+The fourth UI is an abstract training application. The application will show you how to perform the exercise correctly and rate it, you can also view the exercise history.
 
-
+https://github.com/metalWillHelpYou/SwiftUI/assets/113389092/148183a6-ef11-45a9-8a90-18d392f3e752
 
