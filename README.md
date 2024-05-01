@@ -20,3 +20,8 @@ The fourth UI is an abstract training application. The application will show you
 
 https://github.com/metalWillHelpYou/SwiftUI/assets/113389092/148183a6-ef11-45a9-8a90-18d392f3e752
 
+Simplest ToDo list. Just a training session during the preparation of the graduation project.
+
+https://github.com/metalWillHelpYou/SwiftUI/assets/113389092/4bff8dd3-562f-422e-9530-d363f7c5e769
+
+
